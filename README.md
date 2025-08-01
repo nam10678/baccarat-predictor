@@ -1,2 +1,2 @@
-# baccarat-predictor
+BCR-predictor
 baccarat-predictor
