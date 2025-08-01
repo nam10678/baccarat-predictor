@@ -1,2 +1,2 @@
+TOOL BCR-predictor
 BCR-predictor
-baccarat-predictor
